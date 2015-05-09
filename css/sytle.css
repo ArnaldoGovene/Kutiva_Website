@@ -1,5 +1,6 @@
 
 body {
+    margin: 0;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size:12px;
 	line-height:21px;
@@ -10,4 +11,77 @@ body {
 
 }
 
+    #main-content-wrapper{
+    margin-left: 3%;
+    margin-right: 10%;
+    
+    }
 
+
+    .head-content p{
+    
+    }
+
+    .head p{
+ 
+    
+    }
+
+    .small-logo{
+    margin-top: -1%;
+    float: left;
+    
+    }
+
+    .contacts{
+   margin-left: 48%;
+    }
+
+    .menu-container{
+    padding: 4% 0;
+    
+    
+    }
+
+    .big-logo{
+
+    margin-left: 47%;
+    margin-top: -8%;
+    
+    }
+
+    .brand{
+    margin-left: 60%;
+    }
+
+    .text-one{
+    margin-top: 15%;
+    margin-left: 48%;
+    }
+
+    .images img{
+    width: 37%;
+    max-width: 37%;
+    margin: 0.5%;
+    
+    }
+
+    .images{
+    text-align: center;
+    }
+
+    .text-section {
+    
+    padding: 7% 0;
+    float: left;
+   margin: 1%;
+    width: 27.3%;
+    
+    }
+
+    .main-footer p{
+    padding: 7% 0;
+    float: left;
+   margin: 1%;
+    width: 27.3%;
+    }
